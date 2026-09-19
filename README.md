@@ -1,9 +1,3 @@
-Aqui está a estrutura completa e pronta para você copiar e colar diretamente no `README.md` do seu repositório no GitHub para enviar à DIO.
-
----
-
-# 📌 Repositório "Nota 10" — Caderno Temático NotebookLM
-
 # 🏛️ Metafísica, Apoditicidade e Aritmologia: A Síntese entre Mário Ferreira dos Santos e Santo Tomás de Aquino
 
 ---
