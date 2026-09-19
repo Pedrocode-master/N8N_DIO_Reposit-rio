@@ -114,3 +114,4 @@ Descreva o significado de cada operador e constante em termos de tensão, emerg�
 ---
 
 💡 *Este repositório foi gerado como entrega final do projeto de estudo no NotebookLM para subir na plataforma DIO.*
+🛠️ **Nota de Transparência:** *Este caderno temático e sua respectiva documentação foram desenvolvidos a partir do estudo de fontes primárias e secundárias, contando com o suporte do* **Gemini Notebook / NotebookLM** *para curadoria, estruturação de resumos e validação de engenharia de prompts.*
